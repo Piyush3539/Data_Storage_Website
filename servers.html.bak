@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Air Pool</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+	<style>
+           
+             #main {
+               border-radius: 5px;
+               background-color: #f2f2f2;
+               padding: 20px;
+margin:20px auto;
+display:block;
+               width:950px;
+               height:540px;
+              }
+#first{ height:200px;width:290px;float:left;}
+#second{ height:200px;width:290px;float:left;margin-left:30px;}
+#third{ height:200px;width:290px;float:left;margin-left:30px;}
+#fourth{ height:200px;width:290px;float:left;margin-top:100px;}
+#fifth{ height:200px;width:290px;float:left;margin-left:30px;margin-top:100px;}
+#sixth{ height:200px;width:290px;float:left;margin-left:30px;margin-top:100px;}
+#main img{
+    height:200px;width:290px;padding:10px;
+
+}              
+        </style>		
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<img src="images/logo.jpg" alt="Image 01" height="70px" width="300px" style="margin-left:10%; margin-top:-18px;"/>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" >Home</a></li>
+						<li><a href="history.html">History</a></li>
+						<li><a href="servers.html" class="selected">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+
+    
+			<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+					<p style="text-align:center;color:White;	Font-size:60px;	font-weight:bold;padding:5px;Font-family:Lucida Bright,Georgia,serif;"> Different Servers</p>
+				</div>
+			</div>
+		</div> 
+
+<div id="main">
+    <div id="first">
+         <a href="mysqli.html"><img src="images/mysqli.png" alt="Image 01" /></a>    
+    </div>
+    <div id="second">
+         <a href="mysql.html"><img src="images/mysql.png" alt="Image 02"  /></a>    
+    </div>
+    <div id="third">
+         <a href="plsql.html"><img src="images/plsql.png" alt="Image 03"  /></a>    
+    </div>
+    <div id="fourth">
+         <a href="ibm.html"><img src="images/ibm.jpg" alt="Image 04" /></a>    
+    </div>
+    <div id="fifth">
+         <a href="amazons3.html"><img src="images/amazons3.jpg" alt="Image 05"  /></a>    
+    </div>
+    <div id="sixth">
+         <a href="mongodb.html"><img src="images/mongodb.png" alt="Image 06" /></a>    
+    </div>
+ 
+</div>
+		
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html" class="selected">Home</a></li>
+							<li><a href="history.html">History</a></li>
+							<li><a href="servers.html">Servers</a></li>	
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							</ul>
+					</div>
+							
+					
+					<div class="col_2">
+						<h5>Facebook</h5>
+						<ul class="twitter_post">
+							<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+							<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+							<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+						</ul>
+					</div>
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>

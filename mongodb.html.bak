@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Air Pool</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/mongodb.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<a href="index.html"><img src="images/logo.jpg" alt="Image 01" height="70px" width="300px" style="margin-left:10%; margin-top:-18px;"/></a>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" >Home</a></li>
+						<li><a href="history.html" >History</a></li>
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+
+    
+			<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+					<p style="text-align:center;color:#FF7F50;	Font-size:60px;	font-weight:bold;padding:5px;Font-family:Lucida Bright,Georgia,serif;"> MongoDB Server</p>
+				</div>
+			</div>
+		</div> <!-- end of header -->
+
+		<div id="main">
+			<div id="first">
+				<p id="title"> Introduction : </p>
+				<p id="content"> MongoDB is a powerful, flexible, and scalable general-purpose database. It combines the ability to scale out with features such as secondary indexes, range queries, sorting, aggregations, and geospatial indexes . MongoDB is a document-oriented database, not a relational one. The primary reason for moving away from the relational model is to make scaling out easier, but there are some other advantages as well. A document-oriented database replaces the concept of a “row” with a more flexible model, the “document.” By allowing embedded documents and arrays, the documentoriented approach makes it possible to represent complex hierarchical relationships with a single record. This fits naturally into the way developers in modern objectoriented languages think about their data</p>
+			</div>
+			<div id="second">
+				<p id="title">Features :</p>
+				
+					<ul id="content">
+						<li><strong>Indexing</strong> MongoDB supports generic secondary indexes, allowing a variety of fast queries, and provides unique, compound, geospatial, and full-text indexing capabilities as well. </li>
+						<li><strong>Aggregation</strong> MongoDB supports an “aggregation pipeline” that allows you to build complex aggregations from simple pieces and allow the database to optimize it.</li>
+						<li><strong>File storage</strong> MongoDB supports an easy-to-use protocol for storing large files and file metadata.</li>
+					</ul>
+				
+			</div>
+			<div id="third">
+				<p id="title">MongoDB is powerful but easy to get started with</p>
+				<ul id="content">
+					<li>A document is the basic unit of data for MongoDB and is roughly equivalent to a row in a relational database management system (but much more expressive).</li>
+					<li>Similarly, a collection can be thought of as a table with a dynamic schema.</li>
+					<li>A single instance of MongoDB can host multiple independent databases, each of which can have its own collections.</li>
+					<li>Every document has a special key, "_id", that is unique within a collection.</li>
+					<li>MongoDB comes with a simple but powerful JavaScript shell, which is useful for the administration of MongoDB instances and data manipulation.</li>
+				</ul>
+			</div>
+			<div id="fourth">
+				<p id="title">Databases</p>
+				<p id="content">In addition to grouping documents by collection, MongoDB groups collections into databases. A single instance of MongoDB can host several databases, each grouping together zero or more collections. A database has its own permissions, and each database is stored in separate files on disk. A good rule of thumb is to store all data for a single application in the same database. Separate databases are useful when storing data for several application or users on the same MongoDB server. Like collections, databases are identified by name. Database names can be any UTF-8 string, with the following restrictions: </p>
+				<ul id="content">
+					<li>The empty string ("") is not a valid database name</li>
+					<li>A database name cannot contain any of these characters: /, \, ., ", *, , :, |, ?, $, (a single space), or \0 (the null character). Basically, stick with alphanumeric ASCII.</li>
+					<li>Database names are case-sensitive, even on non-case-sensitive filesystems. To keep things simple, try to just use lowercase characters.</li>
+					<li>Database names are limited to a maximum of 64 bytes.</li>
+				</ul>
+			</div>
+		</div>
+		
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html" class="selected">Home</a></li>
+							<li><a href="history.html">History</a></li>
+							<li><a href="blog.html">Blog</a></li>
+							<li><a href="mysql.html">Mysql</a></li>	
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							</ul>
+					</div>
+							
+					
+					<div class="col_2">
+						<h5>Facebook</h5>
+						<ul class="twitter_post">
+							<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+							<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+							<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+						</ul>
+					</div>
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>

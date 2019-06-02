@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Air Pool</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/mysqli.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<a href="index.html"><img src="images/logo.jpg" alt="Image 01" height="70px" width="300px" style="margin-left:10%; margin-top:-18px;"/></a>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" >Home</a></li>
+						<li><a href="history.html" >History</a></li>
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+
+    
+			<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+					<p style="text-align:center;color:#FF7F50;	Font-size:60px;	font-weight:bold;padding:5px;Font-family:Lucida Bright,Georgia,serif;"> MySQLi Server</p>
+				</div>
+			</div>
+		</div> <!-- end of header -->
+
+			<div id="main">
+				<div id="para1">
+					<p id="title">Introduction:</p>
+					<p id="content">The MySQLi Extension is a Improved version of MYSQL which is a relational database driver used in the PHP programming language to provide an interface with MySQL databases.The MySQLi extension features a dual interface. It supports the procedural and object-oriented programming paradigms</p>
+				</div>
+				<div id="main_img">
+					<img src="images/mysqli.png" /> 
+				</div>
+				<div id="para2">
+					<p id="title"> What is Database?..</p>
+					<p id="content">A database is a separate application that stores a collection of data. Each database has one or more distinct APIs for creating, accessing, managing, searching and replicating the data it holds.
+						Other kinds of data stores can be used, such as files on the file system or large hash tables in memory but data fetching and writing would not be so fast and easy with those types of systems.</p>
+					<p id="content">A Relational DataBase Management System (RDBMS) is a software that </p>
+					<ul id="content">
+						<li>Enables you to implement a database with tables, columns and indexes.</li>
+						<li>Guarantees the Referential Integrity between rows of various tables.</li>
+						<li>Updates the indexes automatically.</li>
+						<li>Interprets an SQL query and combines information from various tables</li>	
+					</ul>
+				</div>
+				<div id="para3">
+					<p id="title">Mysqli Database</p>
+					<p id="content">MySQLi is a fast, easy-to-use RDBMS being used for many small and big businesses. MySQLi Extension is developed, marketed, and supported by MySQL. MySQL is becoming so popular because of many good reasons −</p>
+					<ul id="content">
+						<li>MySQLi is released under an open-source license. So you have nothing to pay to use it.</li>
+						<li>MySQLi is a very powerful program in its own right. It handles a large subset of the functionality of the most expensive and powerful database packages.</li>
+						<li>MySQLi uses a standard form of the well-known SQL data language.</li>
+						<li>MySQLi works on many operating systems and with many languages including PHP, PERL, C, C++, JAVA, etc.</li>
+						<li>MySQLi works very quickly and works well even with large data sets.</li>
+						<li>MySQLi is very friendly to PHP, the most appreciated language for web development.</li>
+						<li>MySQLi supports large databases, up to 50 million rows or more in a table. The default file size limit for a table is 4GB, but you can increase this  to a theoretical limit of 8 million terabytes.</li>
+						<li>MySQLi is customizable. The open-source GPL license allows programmers to modify the MySQL software to fit their own specific environments.</li>		
+					</ul>
+				</div>
+				<div id="para4">
+					<p id="title"> Features</p>
+					<ul id="content">
+						<li>MySQLi has this feature called prepared statements which is nothing but a safer way of sending data to MySQL and protecting yourself from getting hacked using SQL injection. This is the foremost reason why one should always prefer MySQLi over MySQL.</li>
+						<li>MySQLi extension has been specifically developed to take advantage of the new features available in MySQL Server version 4.1.3 and above. So the thing is if you still use the MySQL extension then you might not be able to take full advantage of the new MySQL server features.</li>
+						<li>MySQLi is object orientated and a lot has already been talked about how useful Object Oriented programming is.</li>
+						<li>MySQLi supports multiple Statements, Complex Transaction statements and has enhanced debugging capabilities and embedded server support.</li>
+						<li>MySQLi extension is with enhanced security and improved debugging.</li>
+						<li>MySQLi supports transactions through API.</li>
+					</ul>
+					<p id="content">However it has been seen in many benchmarks that the MySQL extension is slightly faster than MySQLi. But this difference is really very very less and it should not come in your criteria of choosing MySQLi over MySQL given the many other benefits MySQLi has. Be it MySQL or MySQLi, you must have some caching mechanism in place to minimize reads from the database.</p>
+				</div>
+			</div>
+
+		
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html" class="selected">Home</a></li>
+							<li><a href="history.html">History</a></li>
+							<li><a href="blog.html">Blog</a></li>
+							<li><a href="mysql.html">Mysql</a></li>	
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							</ul>
+					</div>
+							
+					
+					<div class="col_2">
+						<h5>Facebook</h5>
+						<ul class="twitter_post">
+							<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+							<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+							<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+						</ul>
+					</div>
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>

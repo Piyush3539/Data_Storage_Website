@@ -1,0 +1,90 @@
+*{
+padding:auto;
+margin:auto;
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;   
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    max-width:400px;
+display:block;
+float:left;
+height:540px;
+}
+#main{
+	width:950px;
+	height:600px;
+	margin-left:200px;
+	padding:40px;
+       
+}
+#information {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    margin-left:20px;
+    max-width:300px;
+    height:540px;
+    display:block;
+    float:left;
+}
+
+#fourth a img{
+margin-left:10px;
+}
+#content{
+	text-align:justify;
+	padding:8px;
+	color:black;
+	font-family:"Courier New", Courier, monospace;
+	font-style:italic;
+}
+
+#title{
+	color:#006633;
+	Font-size:20px;
+	font-weight:bold;
+	padding:5px;
+	Font-family:Lucida Bright,Georgia,serif; 
+}
+
+#first
+{
+	height:100px;
+}
+#second
+{
+	height:100px;
+}
+#third
+{
+	height:150px;
+}

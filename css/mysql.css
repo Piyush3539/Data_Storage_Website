@@ -1,0 +1,52 @@
+@charset "utf-8";
+#main{
+	width: 960px;
+	height:1400px;
+	margin: 0 auto;
+	padding:40px;
+}
+
+
+#first
+{
+	float:left;	
+	width:950px;
+	height:360px;
+}
+
+#second
+{
+	float:left;	
+	width:950px;
+	height:500px;
+}
+
+#third
+{
+	float:left;	
+	width:950px;
+	height:220px;
+}
+
+#fourth
+{
+	float:left;	
+	width:950px;
+	height:200px;
+}
+#title{
+	color:#006633;
+	Font-size:30px;
+	font-weight:bold;
+	padding:5px;
+	Font-family:Lucida Bright,Georgia,serif; 
+}
+
+#content{
+	text-align:justify;
+	color:black;
+	font-size:17px;
+	padding:5px;
+	margin-left:18px;
+	line-height: 1.5;
+}

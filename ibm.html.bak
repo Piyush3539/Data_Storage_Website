@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Air Pool</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/slide.css" type="text/css" />
+		<link rel="stylesheet" href="css/ibm.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<a href="index.html"><img src="images/logo.jpg" alt="Image 01" height="70px" width="300px" style="margin-left:10%; margin-top:-18px;"/></a>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="history.html">History</a></li>	
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+
+    
+			
+			<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+					<p style="text-align:center;color:#FF7F50;	Font-size:60px;	font-weight:bold;padding:5px;Font-family:Lucida Bright,Georgia,serif;"> IBM Server</p>
+				</div>
+			</div>
+		</div> <!-- end of header -->
+
+			
+		<div id="outter_box" style="margin-top:10px;"><!--using different css file slide.css for outter and inner box-->
+			<div id="inner_box">
+				<img src="images/ibm.jpg" alt="Image 01" height="350px" width="950px"/>
+				<img src="images/ibm1.jpg" alt="Image 02"  height="350px"width="950px"/>
+				<img src="images/ibm2.jpg" alt="Image 03"  height="350px" width="950px"/>
+				<img src="images/ibm3.jpg" alt="Image 04" height="350px" width="950px"/>
+				<img src="images/ibm4.jpg" alt="Image 05"  height="350px"width="950px"/>
+				<img src="images/ibm5.jpg" alt="Image 06"  height="350px" width="950px"/>
+			</div>
+		</div>
+			<div id="main">
+				<div id="first">
+					<p id="content">Most of todayâs critical business initiatives cannot succeed without effective integration of information. Initiatives such as single view of the customer, business intelligence, supply chain management, and Basel II and Sarbanes-Oxley compliance require consistent, complete, and trustworthy information. IBMÂ® Information Server is the industryâs first comprehensive, unified foundation for enterprise information architectures, capable of scaling to meet any information volume requirement so that companies can deliver business results within these initiatives faster and with higher quality results. IBM Information Server combines the technologies within the IBM Information Integration Solutions portfolio (WebSphereÂ® DataStageÂ®, WebSphere QualityStage, WebSphere ProfileStage, and WebSphere Information Integrator) into a single unified platform that enables companies to understand, cleanse, transform, and deliver trustworthy and context-rich information. Over the last two decades, companies have made significant investments in enterprise resource planning, customer relationship management, and supply chain management packages. Companies also are leveraging innovations such as service-oriented architectures (SOA), Web services, XML, grid computing, and Radio Frequency Identification (RFID).</p>
+				</div>
+				<div id="second">
+					<p id="title">Capabilities </p>
+					<p id="content">IBM Information Server features a unified set of product modules that solve multiple types of business problems. Information validation, access and processing rules can be reused across projects, leading to a higher degree of consistency, stronger control over data, and improved efficiency in IT projects.</p>
+				</div>
+				<div id="third">
+					<p id="title">Architecture </p>
+					<p id="content">IBM Information Server provides a unified architecture that works with all types of information integration. Common services, unified parallel processing, and unified metadata are at the core of the server architecture. 
+					The architecture is service oriented, enabling IBM Information Server to work within an organizationâs evolving enterprise service-oriented architectures. A service-oriented architecture also connects the individual product modules of IBM Information Server. By eliminating duplication of functions, the architecture efficiently uses hardware resources and reduces the amount of development and administrative effort that are required to deploy an integration solution.</p>
+				</div>
+				<div id="fourth">
+					<p id="title">Data pipelining </p>
+					<p id="content">Data pipelining is the process of pulling records from the source system and moving them through the sequence of processing functions that are defined in the data-flow (the job). Because records are flowing through the pipeline, they can be processed without writing the records to disk</p>
+					<p id="title1">Without data pipelining, the following issues arise:</p>
+					
+						<ul>
+							<li>Data must be written to disk between processes, degrading performance and increasing storage requirements and the need for disk management.</li>
+							<li>The developer must manage the I/O processing between components.</li>
+							<li>The process becomes impractical for large data volumes</li>
+							<li>The application will be slower, as disk use, management, and design complexities increase.</li>
+							<li>Each process must complete before downstream processes can begin, which limits performance and full use of hardware resources</li>
+						</ul>		
+					
+				</div>
+				<div id="fifth">
+					<p id="title">Data partitioning</p>
+					<p id="content">Data partitioning is an approach to parallelism that involves breaking the record set into partitions, or subsets of records. Data partitioning generally provides linear increases in application performance </p>
+				</div>
+				<div id="sixth">
+					<p id="title">Dynamic repartitioning</p>
+					<p id="content">Data is partitioned based on customer surname, and then the data partitioning is maintained throughout the flow . This type of partitioning is impractical for many uses, such as a transformation that requires data partitioned on surname but must then be loaded into the data warehouse by using the customer account number.</p>
+				</div>	
+			</div>
+		
+
+		
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html" class="selected">Home</a></li>
+							<li><a href="history.html">History</a></li>
+							<li><a href="blog.html">Blog</a></li>
+							<li><a href="mysql.html">Mysql</a></li>	
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							</ul>
+					</div>
+							
+					
+					<div class="col_2">
+						<h5>Facebook</h5>
+						<ul class="twitter_post">
+							<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+							<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+							<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+						</ul>
+					</div>
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>

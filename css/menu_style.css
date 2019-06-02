@@ -1,0 +1,71 @@
+.ddsmoothmenu{
+	float: center;
+}
+
+.ddsmoothmenu ul{
+	z-index:100;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+/*Top level list items*/
+.ddsmoothmenu ul li{
+	position: relative;
+	display: inline;
+	float: left;
+}
+
+/*Top level menu link items style*/
+.ddsmoothmenu ul li a {
+	display: block;
+	width: 100px;
+	height: 30px;
+	line-height: 29px;
+	margin-left: 20px;
+	font-size: 17px;
+	color: #FFF;	
+	text-align: center;
+	text-decoration: none;
+	font-weight: 500;
+	outline: none;
+	border: none;
+}
+
+* html .ddsmoothmenu ul li a{ 
+display: inline-block;
+}
+
+.ddsmoothmenu ul li a.selected, .ddsmoothmenu ul li a:hover { /*CSS class that's dynamically added to the currently active menu items' LI A element*/
+	color: #2e53db;
+	
+	background: url(../images/hover.png) no-repeat
+}
+/*1st sub level menu*/
+.ddsmoothmenu ul li ul{
+	position: absolute;
+	left: 0;
+	display: none; /*collapse all sub menus to begin with*/
+	visibility: hidden;
+	background: #292929;
+	margin-top: 10px;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.ddsmoothmenu ul li ul li{
+display: list-item;
+float: none;
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.ddsmoothmenu ul li ul li ul{
+top: 0;
+}
+
+
+
+.ddsmoothmenu ul li ul li a.selected, .ddsmoothmenu ul li ul li a:hover {
+	color: #fff;
+	background: #b3cb12
+}
+

@@ -1,0 +1,55 @@
+@charset "utf-8";
+#main{
+	width: 960px;
+	height:2000px;
+	margin: 0 auto;
+	padding:40px;
+}
+
+
+#para1
+{
+	float:left;	
+	width:500px;
+	height:40px;
+}
+#main_img{
+	float:right;
+}
+
+#para2
+{
+	float:left;	
+	width:950px;
+	height:350px;
+}
+
+#para3
+{
+	float:left;	
+	width:950px;
+	height:420px;
+}
+
+#para4
+{
+	float:left;	
+	width:950px;
+	height:200px;
+}
+#title{
+	color:#006633;
+	Font-size:30px;
+	font-weight:bold;
+	padding:5px;
+	Font-family:Lucida Bright,Georgia,serif; 
+}
+
+#content{
+	text-align:justify;
+	color:black;
+	font-size:17px;
+	padding:5px;
+	margin-left:18px;
+	line-height: 1.5;
+}

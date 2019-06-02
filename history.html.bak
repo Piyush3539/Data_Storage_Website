@@ -1,0 +1,164 @@
+<!DOCTYPE HTML>
+<HTML lang="en">
+       <head>
+		<title>Air Pool</title>
+                <meta charset="UTF-8">
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/history.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<img src="images/logo.jpg" alt="Image 01" style="height:70px; width:300px; margin-left:10%; margin-top:-18px;"/>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" >Home</a></li>
+						<li><a href="history.html" class="selected">History</a></li>
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+
+    
+			<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+				<p id="heading">History of Data Storage System</p>	
+				</div>
+			</div>
+		</div> 
+
+		
+		
+		
+		<div id="main">
+			<div id="first">
+				<video style="width:950px; height:450px;" controls autoplay >
+						<source src="videos/HistoryStorage.mp4" type="video/mp4">
+				</video>
+				<p id="title">Storage System ERA</p>
+				<p id="content">Nowadays we are used to having hundreds of gigabytes of storage capacity in our computers. Even tiny MP3 players and other handheld devices usually have several gigabytes of storage. This was pure science fiction only a few decades ago. For example, the first hard disk drive to have gigabyte capacity was as big as a refrigerator, and that was in 1980. Not so long ago!
+				Pingdom stores a lot of monitoring data every single day, and considering how much we take todays storage capacity for granted, its interesting to look back and get things in perspective. Here is a look back at some interesting storage devices from the early computer era.</p>
+			</div>
+			<div id="second">
+				<img src="images/tape.jpg" alt="tape"/>
+				<p id="title">1928 Magnetic Tape</p>
+				<p id="content">Fritz Pfleumer, a German engineer, patented magnetic tape in 1928. He based his invention off Vlademar Poulsen's magnetic wire</p>
+			</div>	
+			<div id="third">
+				<img src="images/drum.jpg" alt="drum"/>
+				<p id="title">1932 Magnetic Drum</p>
+				<p id="content">G. Taushek, an Austrian innovator, invented the magnetic drum in 1932. He based his invention off a discovery credited to Fritz Pfleumer	</p>
+			</div>	
+			<div id="fourth">
+				<img src="images/wtube.jpg" alt="tube"/>
+				<p id="title">1950 Magnetic Core</p>
+				<p id="content">A magnetic core memory, also known as a ferrite-core memory, uses small magnetic rings made of ceramic to store information from the polarity to the magnetic field it contains.</p>		
+			</div>
+			<div id="second">
+				<img src="images/hdisk.jpg" alt="disk"/>
+				<p id="title">1956 Hard Disk</p>
+				<p id="content">The first hard disk drive was the IBM Model 350 Disk File that came with the IBM 305 RAMAC computer in 1956. It had 50 24-inch discs with a total storage capacity of 5 million characters (just under 5 MB).</p>
+			</div>
+			<div id="third">
+				<img src="images/floppy.jpg" alt="flopy"/>
+				<p id="title">!970s The floppy disc</p>
+				<p id="content">The diskette, or floppy disk (named so because they were flexible), was invented by IBM and in common use from the mid-1970s to the late 1990s. The first floppy disks were 8 inches, and later in came 5.25 and 3.5-inch formats. The first floppy disk, introduced in 1971, had a capacity of 79.7 kB, and was read-only. A read-write version came a year later.</p>
+			</div>	
+			<div id="fourth">	
+				<img src="images/disk.jpg" alt="disk1"/>
+				<p id="title">!980 CD</p>
+				<p id="content">During the 1960s, Russel got millions Dollars for development of compact disc (CD). The CD-ROM, also known as the Compact Disk Read-Only Memory, used the same physical format as the audio compact disks to store digital data.</p>
+			</div>	
+			<div id="second">
+				<img src="images/mdisk.jpg" alt="disk2"/>
+				<p id="title">!992 Minidisc</p>
+				<p id="content">The MiniDisc stored any kind of digital data; however, it was predominately used for audio. Sony introduced MiniDisc technology in 1991. In 1992, Philip's introduced the Digital Compact Cassette System (DCC). MiniDisc was intended to replace the audio cassette tape before it eventually phased out in 1996.</p>
+			</div>
+			<div id="third">
+				<img src="images/flash.jpg" alt="flash"/>
+				<p id="title">1994 Compact Flash</p>
+				<p id="content">CompactFlash (CF), also known as flash drives, used flash memory in an enclosed disc to save digital data. CF devices are used in digital cameras and computers to store digital information.</p>
+			</div>
+			<div id="fourth">
+				<img src="images/zip.jpg" alt="zip"/>
+				<p id="title">Zip</p>
+				<p id="content">The Zip drive became commonly used in 1994 to store digital files. It was a removable disk storage system introduced by Iomega.</p>
+			</div>
+			<div id="second">
+				<img src="images/dvd.jpg" alt="dvd"/>
+				<p id="title">1995 DVD</p>
+				<p id="content">DVD became the next generation of digital disc storage. DVD, a bigger and faster alternative to the compact disc, serves to store multimedia data</p>
+			</div>
+			<div id="third">
+				<img src="images/smartmedia.jpg" alt="cards"/>
+				<p id="title">SmartMedia</p>
+				<p id="content">Toshiba launched the SmartMedia, a flash memory card, in the summer of 1995 to compete with MiniCard and SanDisk</p>
+			</div>
+			<div id="fourth">
+				<img src="images/usb.jpg" alt="usb"/>
+				<p id="title">1999 Microdrive</p>
+				<p id="content">A USB Flash Drive uses a NAND-type flash memory to store digital data. A USB Flash Drive plugs into the USP interface on standard computers.</p>
+			</div>
+			<div id="final">
+				<img src="images/storage1.jpg" alt="cloud"/>
+			</div>
+			<div id="fifth">	
+				<p id="title1">Now a Days</p>
+				<p id="title2">Cloud Data Storage</p>
+				<p id="content">Improvements in internet bandwidth and the falling cost of storage capacity means its frequently more economical for business and individuals to outsource their data storage to the cloud, rather than buying, maintaining and replacing their own hardware. Cloud offers near-infinite scalability, and the anywhere/everywhere data access that users increasingly expect.</p>
+			</div>
+		
+		</div>
+				
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="history.html" >History</a></li>
+							<li><a href="servers.html">Servers</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							</ul>
+					</div>
+							
+					
+					<div class="col_2">
+						<h5>Facebook</h5>
+						<ul class="twitter_post">
+							<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+							<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+							<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+						</ul>
+					</div>
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>

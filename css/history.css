@@ -1,0 +1,117 @@
+@charset "utf-8";
+#main{
+	width: 960px;
+	height:3200px;
+	margin: 0 auto;
+	padding:40px;
+       
+}
+
+#main img{
+	width:300px;
+	height:280px;
+	border-radius:9px;
+}
+
+#first
+{
+	float:left;	
+	width:950px;
+	height:650px;
+}
+
+#second
+{
+	float:left;	
+	width:300px;
+	height:550px;
+	margin-left:10px;
+}
+
+#third
+{
+	float:left;
+	width:300px;
+	height:550px;
+	margin-left:10px;
+	
+}
+
+#fourth
+{
+	float:left;
+	width:300px;
+	height:550px;
+	margin-left:10px;
+}
+
+#fifth
+{
+	float:left;
+	width:300px;
+	height:350px;
+	margin-left:10px;
+	background-color:white;
+	padding:5px;
+	
+}
+#title1{
+	text-align:center;
+	text-shadow: 2px 2px #FF8C00;
+	color:#FF7F50;
+	Font-size:30px;
+	font-weight:bold;
+	padding:5px;
+	Font-family:Lucida Bright,Georgia,serif; 
+	}
+	
+#final
+{	
+	background-color:white;
+	padding:5px;
+	float:left;
+	width:600px;
+	height:350px;
+	margin-left:30px;
+}
+#final img{
+	width:600px;
+	height:350px;
+}
+
+#content{
+	text-align:justify;
+	padding:8px;
+	color:black;
+	font-family:"Courier New", Courier, monospace;
+	font-weight:bold;
+}
+
+#title{
+	color:#006633;
+	Font-size:20px;
+	font-weight:bold;
+	padding:5px;
+	Font-family:Lucida Bright,Georgia,serif; 
+}
+
+#title2{
+	text-align:center;
+	color:#006633;
+	Font-size:20px;
+	font-weight:bold;
+	padding:5px;
+	Font-family:Lucida Bright,Georgia,serif; 
+}
+
+#heading
+{
+	text-align:center;
+	text-shadow: 2px 2px #FF8C00;
+	color:#FF7F50;
+	Font-size:30px;
+	font-weight:bold;
+	padding:5px;
+	Font-family:Lucida Bright,Georgia,serif;
+	
+	}

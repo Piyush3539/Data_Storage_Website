@@ -1,0 +1,66 @@
+#outter_box{
+	width:950px;
+	overflow:hidden;
+	margin-left:14%;
+	
+}
+
+#inner_box {
+
+    
+    position:relative;
+	width:5700px;
+	animation-name:jangra;
+	animation-duration:30s;
+	animation-iteration-count:infinite;
+}
+#inner_box img{
+	float:left;
+	border-radius:16px;
+}
+
+@keyframes jangra{
+	
+	0%{
+		
+		left:0px;
+	}
+	13%{
+		
+		left:0px;
+	}
+	16%{
+		left:-950px;
+	}
+	30%{
+		left:-950px;
+	}
+	33%{
+		left:-1900px;
+	}
+	46%{
+		left:-1900px;
+	}
+	50%{
+		left:-2850px;
+	}
+	63%{
+		left:-2850px;
+	}
+	66%{
+		left:-3800px;
+	}
+	80%{
+		left:-3800px;
+	}
+	83%{
+		left:-4750px;
+	}
+	96%{
+		left:-4750px;
+	}
+	100%{
+		left:-5700px;
+	}
+	
+}

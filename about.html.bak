@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Data Storage</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/about.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<img src="images/logo.jpg" alt="Image 01" height="70px" width="300px" style="margin-left:10%; margin-top:-18px;"/>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" >Home</a></li>
+						<li><a href="history.html">History</a></li>
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html" class="selected">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					<br style="clear: left" />
+				</div> 
+			</div>
+    
+			<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+
+					<div id="mid_title">About Data Storage Storage</div>
+					<p id="mid_text">What storage tech will or (wont&#39;s) set data centers ablaze in 2017? Discover the trends making our expert&#39;s storage short-list. Additionally, diagnose your DR in light of today&#39;s data capacity limitations.</p>
+				   
+				</div>
+			</div>
+		</div> 
+
+		<div class="imageHolder"> 	
+				<img src="images/abouti.jpg"/> 
+				<div class="caption"><br>Storing Data In Many Ways.</div> 
+		</div> 
+		<div id="main">
+			<div id="first">
+				<p id="title">About Us</p>
+				<p id="content">At <a href="https://airpool.000webhostapp.com">airpool.000webhostapp.com</a>, it&#39;s all in the name.</p>
+				<p id="content">Well, that&#39;s not entirely true, but our name does aptly describe our goal: to provide you with relevant, independent advice, tips, and news that help you address your specific storage needs.</p>
+				<p id="content">In 2017, we launched <a href="https://airpool.000webhostapp.com">airpool.000webhostapp.com</a> to create a space in which storage experts could share objective content to help IT pros, like yourself, solve any and all of today&#39;s storage challenges. It's clear that storage challenges are only becoming more complex. So, whether you have a specific question around implementing parallel I/O technology or you&#39;re purchasing a new NAS system, you&#39;ll find detailed articles on <a href="https://airpool.000webhostapp.com">airpool.000webhostapp.com</a> to master all your latest storage projects. Welcome!</p>
+			</div>
+			<div id="secondImg">
+				<img src="images/about.png"/> 
+			</div>
+		</div>
+		
+		
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html" class="selected">Home</a></li>
+							<li><a href="history.html">History</a></li>
+							<li><a href="servers.html">Servers</a></li>	
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							</ul>
+					</div>
+							
+					
+					
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Data Storage</a>
+			</div>
+		</div>
+	</body>
+</html>

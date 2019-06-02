@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Air Pool</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/mysql.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<a href="index.html"><img src="images/logo.jpg" alt="Image 01" height="70px" width="300px" style="margin-left:10%; margin-top:-18px;"/></a>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" >Home</a></li>
+						<li><a href="history.html" >History</a></li>
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+
+    
+			<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+
+					<p style="text-align:center;color:#FF7F50;	Font-size:60px;	font-weight:bold;padding:5px;Font-family:Lucida Bright,Georgia,serif;">My SQL Server </p>
+				   
+				</div>
+			</div>
+		</div> <!-- end of header -->
+
+			<div id="main">
+				<div id="first">
+					<p id="title">Introduction </p>
+					<p id="content"> The SQL language and relational database systems based on it constitute one of the most important foundation technologies in the computer industry. Over the last three decades, SQL has grown from its first commercial use into a computer product and services market segment worth tens of billions of dollars per year, and SQL stands today as the standard computer database language. Hundreds of database products now support SQL, running on computer systems from mainframes to personal computers. A SQL-based database may even be embedded in your mobile phone or PDA, or in the entertainment system of your car. An official international SQL standard has been adopted and expanded several times. Every major enterprise software product relies on SQL for its data management, and SQL is at the core of the flagship database products from Microsoft, Oracle, and IBM, three of the largest software companies in the world. SQL is also at the heart of open-source database products such as MySQL and Postgres that are helping to fuel the popularity of Linux and the open source movement. From its obscure beginnings as an IBM research project, SQL has grown to become both an important piece of information technology and a powerful market force .</p>
+				</div>
+				<div id="second">
+					<p id="title"> Features</p>
+					<ul id="content">
+						<li>Data definition SQL lets a user define the structure and organization of the stored data and relationships among the stored data items. </li>
+						<li>Data retrieval SQL allows a user or an application program to retrieve stored data from the database and use it.</li>
+						<li>Data manipulation SQL allows a user or an application program to update the database by adding new data, removing old data, and modifying previously stored data</li>
+						<li>Access control SQL can be used to restrict a user’s ability to retrieve, add, and modify data, protecting stored data against unauthorized access</li>	
+						<li>Data sharing SQL is used to coordinate data sharing by concurrent users, ensuring that changes made by one user do not inadvertently wipe out changes made at nearly the same time by another user</li>
+						<li>Data integrity SQL defines integrity constraints in the database, protecting it from corruption due to inconsistent updates or system failures</li>
+				</ul>
+				<p id="content">SQL is thus a comprehensive language for controlling and interacting with a database management system. Second, SQL is not really a complete computer language like COBOL, C, C++, or Java. Instead, SQL is a database sublanguage, consisting of about 40 statements specialized for database management tasks. These SQL statements can be embedded into another language such as COBOL or C to extend that language for use in database access.</p>
+				</div>
+				<div id="third">
+					<p id="title">Role Of SQL</p>
+					<ul id="content">
+						<li>SQL is an interactive query language. Users type SQL commands into an interactive SQL program to retrieve data and display it on the screen, providing a convenient, easy-to-use tool for ad hoc database queries </li>
+						<li>SQL is a database programming language. Programmers embed SQL commands into their application programs to access the data in a database. Both user-written programs and database utility programs (such as report writers and data entry tools) use this technique for database access.</li>
+						</ul>
+				</div>
+				<div id="fourth">
+					<p id="title">Architecture</p>
+					<p id="content"> The dramatic growth of computer networking in the 1990s had a major impact on database management and gave SQL a new prominence. As networks became more common, applications that traditionally ran on a central minicomputer or mainframe moved to local area networks of desktop workstations and servers. In these networks, SQL plays a crucial role as the link between an application running on a desktop workstation with a graphical user interface and the DBMS that manages shared data on a cost-effective server</p>
+				</div>
+				
+			</div>
+
+		
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html" class="selected">Home</a></li>
+							<li><a href="history.html">History</a></li>
+							<li><a href="blog.html">Blog</a></li>
+							<li><a href="mysql.html">Mysql</a></li>	
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							</ul>
+					</div>
+							
+					
+					<div class="col_2">
+						<h5>Facebook</h5>
+						<ul class="twitter_post">
+							<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+							<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+							<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+						</ul>
+					</div>
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>

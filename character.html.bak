@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Air Pool</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/character.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<a href="index.html"><img src="images/logo.jpg" alt="Image 01" style="height:70px; width:300px; margin-left:10%; margin-top:-18px;"/></a>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" >Home</a></li>
+						<li><a href="history.html" >History</a></li>
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+    		<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+					<p style="text-align:center;text-shadow: 2px 2px #FF8C00;color:#FF7F50;	Font-size:30px;	font-weight:bold;padding:5px;Font-family:Lucida Bright,Georgia,serif;"> Characteristics of Data Storage system</p>
+				</div>
+			</div>
+		</div> <!-- end of header -->
+		
+							
+		<div id="main">
+			<div id="first">
+				<a href="images/character.jpg"><img src="images/character.jpg" alt="character"/></a>
+				<p id="title">About</p>
+				<p id="content">Storage technologies at all levels of the storage hierarchy can be differentiated by evaluating certain core characteristics as well as measuring characteristics specific to a particular implementation. These core characteristics are volatility, mutability, accessibility, and addressability. For any particular implementation of any storage technology, the characteristics worth measuring are capacity and performance. </p>
+			</div>
+			<div id="second">
+				<p id="title">Performance</p>
+				<ul class="further_title" >
+					<li>Throughput</li>
+						<ul class="content1">
+							<li>The rate at which information can be read from or written to the storage. In computer data storage, throughput is usually expressed in terms of megabytes per second or MB/s, though bit rate may also be used. As with latency, read rate and write rate may need to be differentiated. Also accessing media sequentially, as opposed to randomly, typically yields maximum throughput.</li>
+						</ul>
+					<li>Latency</li>
+						<ul class="content1">
+							<li>The time it takes to access a particular location in storage. The relevant unit of measurement is typically nanosecond for primary storage, millisecond for secondary storage, and second for tertiary storage. It may make sense to separate read latency and write latency, and in case of sequential access storage, minimum, maximum and average latency. </li>
+						</ul>
+				</ul>		
+			</div>
+			<div id="third">
+				<p id="title">Capacity</p>
+				<ul class="further_title" >
+					<li>Raw capacity</li>
+						<ul class="content1">
+							<li>The total amount of stored information that a storage device or medium can hold. It is expressed as a quantity of bits or bytes (e.g. 10.4 megabytes). </li>
+						</ul>
+					<li>Memory storage density </li>
+						<ul class="content1">
+							<li>The compactness of stored information. It is the storage capacity of a medium divided with a unit of length, area or volume (e.g. 1.2 megabytes per square inch). </li>
+						</ul>
+				</ul>		
+			</div>
+			<div id="fourth">
+				<p id="title">Volatility</p>
+				<ul class="further_title" >
+					<li>Non-volatile memory</li>
+						<ul class="content1">
+							<li>It will retain the stored information even if it is not constantly supplied with electric power. It is suitable for long-term storage of information. Nowadays used for most of secondary, tertiary, and off-line storage. In 1950s and 1960s, it was also used for primary storage, in the form of magnetic core memory.  </li>
+						</ul>
+					<li>Volatile memory</li>
+						<ul class="content1">
+							<li>Requires constant power to maintain the stored information. The fastest memory technologies of today are volatile ones (not a universal rule). Since primary storage is required to be very fast, it predominantly uses volatile memory. </li>
+						</ul>
+				</ul>		
+			</div>
+			<div id="fifth">
+				<p id="title">Differentiation</p>
+				<ul class="further_title" >
+					<li>Dynamic random access memory</li>
+						<ul class="content1">
+							<li>A form of volatile memory which also requires the stored information to be periodically re-read and re-written, or refreshed, otherwise it would vanish. </li>
+						</ul>
+					<li>Static memory </li>
+						<ul class="content1">
+							<li>A form of volatile memory similar to DRAM with the exception that it never needs to be refreshed as long as power is applied. (It loses its content if power is removed).</li>
+						</ul>
+				</ul>		
+			</div>
+			<div id="sixth">
+				<p id="title">Mutability</p>
+				<ul class="further_title" >
+				<li>Read/write storage or mutable storage</li>
+						<ul class="content1">
+							<li>Allows information to be overwritten at any time. A computer without some amount of read/write storage for primary storage purposes would be useless for many tasks. Modern computers typically use read/write storage also for secondary storage.</li>
+						</ul>
+					<li>Read only storage</li>
+						<ul class="content1">
+							<li>Retains the information stored at the time of manufacture, and write once storage (Write Once Read Many) allows the information to be written only once at some point after manufacture. These are called immutable storage. Immutable storage is used for tertiary and off-line storage. Examples include CD-ROM and CD-R.</li>
+						</ul>
+					<li>Slow write, fast read storage</li>
+						<ul class="content1">
+							<li>Read/write storage which allows information to be overwritten multiple times, but with the write operation being much slower than the read operation. Examples include CD-RW and flash memory.</li>
+						</ul>	
+				</ul>		
+			</div>
+			<div id="seventh">
+				<p id="title">Accessibility</p>
+				<ul class="further_title" >
+					<li>Random access</li>
+						<ul class="content1">
+							<li>Any location in storage can be accessed at any moment in approximately the same amount of time. Such characteristic is well suited for primary and secondary storage.</li>
+						</ul>
+					<li>Sequential access</li>
+						<ul class="content1">
+							<li>The accessing of pieces of information will be in a serial order, one after the other; therefore the time to access a particular piece of information depends upon which piece of information was last accessed. Such characteristic is typical of off-line storage.</li>
+						</ul>
+				</ul>		
+			</div>
+			<div id="eigth">
+				<p id="title">Addressability</p>
+				<ul class="further_title" >
+					<li>Location-addressable</li>
+						<ul class="content1">
+							<li>Each individually accessible unit of information in storage is selected with its numerical memory address. In modern computers, location-addressable storage usually limits to primary storage, accessed internally by computer programs, since location-addressability is very efficient, but burdensome for humans</li>
+						</ul>
+					<li>File addressable</li>
+						<ul class="content1">
+							<li>Information is divided into files of variable length, and a particular file is selected with human-readable directory and file names. The underlying device is still location-addressable, but the operating system of a computer provides the file system abstraction to make the operation more understandable. In modern computers, secondary, tertiary and off-line storage use file systems..</li>
+						</ul>
+					<li>Content-addressable</li>
+						<ul class="content1">
+							<li>Each individually accessible unit of information is selected based on the basis of (part of) the contents stored there. Content-addressable storage can be implemented using software (computer program) or hardware (computer device), with hardware being faster but more expensive option. Hardware content addressable memory is often used in a computer's CPU cache.</li>					</ul>	
+				</ul>		
+			</div>
+		</div>				
+			
+		
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="history.html" >History</a></li>
+							<li><a href="servers.html">Servers</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							</ul>
+					</div>
+							
+					
+					<div class="col_2">
+						<h5>Facebook</h5>
+						<ul class="twitter_post">
+							<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+							<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+							<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+						</ul>
+					</div>
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Air Pool</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/plsql.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+					<a href="index.html"><img src="images/logo.jpg" alt="Image 01" height="70px" width="300px" style="margin-left:10%; margin-top:-18px;"/></a>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" >Home</a></li>
+						<li><a href="history.html" >History</a></li>
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+
+    
+			<div id="tooplate_mid_wrapper">
+				<div id="tooplate_mid_sub">
+					<p style="text-align:center;color:#FF7F50;	Font-size:60px;	font-weight:bold;padding:5px;Font-family:Lucida Bright,Georgia,serif;">PlSQl Server</p>
+				</div>
+			</div>
+		</div> <!-- end of header -->
+
+			<div id="main">
+				<div id="para1"> 	
+						<p id="title">Introduction:</p>
+						<p id="content" >PL/SQL is a procedural language designed specifically to embrace SQL statements within its syntax used byoracle database management system.PL/SQL program units are compiled by the Oracle Database server and stored inside the database. At run-time, both PL/SQL and SQL run within the same server process, bringing optimal efficiency. PL/SQL automatically inherits the robustness, security, and portability of the Oracle Database</p>
+				</div>
+				<div id="second">
+				<img src="images/plsql.png" /> 
+				</div>
+				
+				<div id="para2">
+					<p id="title">History</p>
+					<p id="content"> In 1991, Oracle Corporation released Oracle Version 6.0, a major advance in its relational database technology. A key component of Oracle Version 6.0 was the so-called "procedural option" or PL/SQL. At roughly the same time, Oracle released its long-awaited upgrade to SQL Forms Version 2.3. SQL Forms V3.0 incorporated the PL/SQL engine for the first time on the tool side, allowing developers to code their procedural logic in a natural, straightforward manner.
+									This first release of PL/SQL was very limited in its capabilities. On the server side, you could use PL/SQL only to build "batch-processing" scripts of procedural and SQL statements. In other words, you could not store procedures or functions for execution at some later time. You could not construct a modular application or store complex business rules in the server</p>
+				</div>
+				<div id="para3">
+					<p id="title">Structure of PL/SQL:</p>
+					<p id="content">Basic Syntax of PL/SQL which is a block-structured language; this means that the PL/SQL programs are divided and written in logical blocks of code. Each block consists of three sub-parts:</p>					
+					<p id="title1">Declarations</p>
+					<p id="content1"> This section starts with the keyword DECLARE. It is an optional section and defines all variables, cursors, subprograms, and other elements to be used in the program.</p>
+					<p id="title1">Executable Commands</p>
+					<p id="content1"> This section is enclosed between the keywords BEGIN and END and it is a mandatory section. It consists of the executable PL/SQL statements of the program. It should have at least one executable line of code, which may be just a NULL command to indicate that nothing should be executed.</p>
+				</div>
+				<div id="para4">
+					<p id="title">Advantages</p>
+					<ul id="content">
+						<li>writte Applications n in PL/SQL are fully portable.</li>
+						<li>PL/SQL provides high security level.</li>
+						<li>PL/SQL provides access to predefined SQL packages</li>
+						<li>PL/SQL provides support for Object-Oriented Programming.</li>
+						<li>PL/SQL provides support for developing Web Applications and Server Pages.</li>
+						<li>PL/SQL gives high productivity to programmers as it can query, transform, and update data in a database.</li>
+						<li>PL/SQL saves time on design and debugging by strong features, such as exception handling, encapsulation, data hiding, and object-oriented data types</li>
+					</ul>
+				</div>
+				<div id="para5">
+					<p id="title">Features</p>
+					<p id="content">PL/SQL includes procedural language elements such as conditions and loops. It allows declaration of constants and variables, procedures and functions, types and variables of those types, and triggers. It can handle exceptions (runtime errors). Arrays are supported involving the use of PL/SQL collections. Implementations from version 8 of Oracle Database onwards have included features associated with object-orientation. One can create PL/SQL units such as procedures, functions, packages, types, and triggers, which are stored in the database for reuse by applications that use any of the Oracle Database programmatic interfaces</p>
+					<ul id="content">
+						<li>Building and Managing PL/SQL Program Units</li>
+						<li>Building with Blocks   PL/SQL is a block-structured language; familiarity with blocks is critical to writing good code.</li>
+						<li>Controlling the Flow of Execution  Conditional branching and iterative processing in PL/SQL </li>
+						<li>Wrap Your Code in a Neat Package  Packages are the fundamental building blocks of any high quality PL/SQL-based application</li>
+						<li>Picking Your Packages  Concepts and benefits of PL/SQL packages</li>
+						<li>Error Management  An exploration of error management features in PL/SQL </li>
+						<li>The Data Dictionary: Make Views Work for You Use several key data dictionary views to analyze and manage your code</li>
+						<li>It supports the development of web applications and server pages</li>
+						<li>It supports object-oriented programming</li>
+					</ul>
+				</div>
+			</div>
+		
+			<div id="tooplate_footer_wrapper">
+				<div id="tooplate_footer">
+					<div class="col_2">
+						<ul class="footer_list">
+							<li><a href="index.html" >Home</a></li>
+							<li><a href="history.html" >History</a></li>
+							<li><a href="servers.html">Servers</a></li>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+						</ul>
+					</div>
+							
+					
+					<div class="col_2">
+						<h5>Facebook</h5>
+						<ul class="twitter_post">
+							<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+							<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+							<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+						</ul>
+					</div>
+						
+					
+					<div class="col_2">
+						<h5>About</h5>
+						<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+						<div class="footer_social_button">
+							<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+							<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+							<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+						
+						</div>
+					</div>
+					<div class="cleaner"></div>
+				</div>
+			</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>

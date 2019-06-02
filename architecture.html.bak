@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Air Pool</title>
+		<meta name="keywords" content="data storage,data storage solution,system storage,airpool"/>
+		<meta name="description" content="Data storage designed for cloud and analytics workloads. Manage your data growth with airpool Storage Solutions"/>
+		<link rel="stylesheet" href="css/main_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/menu_style.css" type="text/css" />
+		<link rel="stylesheet" href="css/arch.css" type="text/css" />
+	</head>
+	<body>
+		<div id="tooplate_header">
+			<div id="tooplate_top">
+				
+			</div>
+			<div id="tooplate_titlebar">
+				<img src="images/logo.jpg" alt="Image 01" style="height:70px; width:300px; margin-left:10%; margin-top:-18px;"/>
+				<div id="tooplate_menu" class="ddsmoothmenu">
+					<ul>
+						<li><a href="index.html" class="selected">Home</a></li>
+						<li><a href="history.html">History</a></li>
+						<li><a href="servers.html">Servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+					
+				</div> 
+			</div>
+			
+			<div id="tooplate_mid_wrapper">
+					
+				<div id="tooplate_mid_sub">
+					<p id="heading">Architecture of Data Storage System</p>
+				</div>
+			</div>
+  		</div> <!-- end of header -->
+	
+		<div id="main">
+			<div id="first">
+				<video style="width:950px; height:450px;" autoplay controls >
+						<source src="videos/FutureStorage.mp4" type="video/mp4">
+				</video>
+				<p id="title"> OverView</p>
+				<p id="content">Designing storage systems that can handle the requirements of big data applications is a task that many storage administrators are starting to tackle in their own environments. In this SearchStorage Ask the Expert guide, John Webster, a senior partner analyst at the firm Evaluator Group based in Boulder. Big data storage architecture, including how to spec a storage system for use by big data applications, guidance on protecting big data sets.</p>
+			</div>
+			<div id="second">
+				<img src="images/specification.jpg" alt="specification"/>
+				<p id="title"> Storage Specification</p>
+				<p id="content">Big data applications vary by organization, but according to Webster, there are two general categories they fall under: large-capacity applications that need to hold hundreds of terabytes of data, and performance-intensive big data analytics apps. In this Ask the Expert, Webster details why bandwidth and response times are such critical factors when dealing with both of these application types.</p>
+			</div>
+			<div id="third">
+				<img src="images/protection.jpg" alt="protection"/>
+				<p id="title">Data Protection</p>
+				<p id="content">The capacity requirements of big data operations mean new challenges when protecting your organization's data. Find out what Webster has to say about RAID technology today and whether it's up to par for securing the massive, multi-petabyte data sets associated with big data architectures.</p>
+			</div>
+			<div id="fourth">
+				<img src="images/infra.jpg" alt="infra"/>
+				<p id="title">Infrastructure Choice</p>
+				<p id="content">Object-based systems and scale-out file systems are both suitable for handling the requirements associated with a big data storage architecture, but they're not created equal. Scale-out systems offer a global namespace file system for easy management of network-attached storage, writes Webster, while object storage's use of metadata means better performance for larger file sets.</p>
+			</div>
+			<div id="fifth">
+				<img src="images/analystics.jpg" alt="analyze"/>
+				<p id="title">Analystic</p>
+				<p id="content">Big data analytics and data warehousing are both methods of processing large amounts of data, but they aren't one in the same. Traditional data warehousing isn't always equipped to handle data common to big data environments that needs to be frequently accessed or updated. According to Webster, there are several reasons big data analytics and related technologies such as Hadoop can better pull valuable information from big data sets.</p>
+			</div>
+		</div>
+	
+		
+		<div id="tooplate_footer_wrapper">
+			<div id="tooplate_footer">
+				<div class="col_2">
+					<ul class="footer_list">
+						<li><a href="index.html" class="selected">Home</a></li>
+						<li><a href="history.html">History</a></li>
+						<li><a href="servers.html">servers</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				<div class="col_2">
+					<h5>Facebook</h5>
+					<ul class="twitter_post">
+						<li>First 2 page Designer <a href="http://www.fb.com/nitinsui" target="_blank">Nitin Jangra</a></li>
+						<li>middle 2 page Designer <a href="http://www.fb.com/smiley2211" target="_blank">Abhi sharma</a></li>
+						<li>last 2 page Desigher <a href="http://fb.com/kumar67rohit" target="_blank">Rohit Sharma</a></li>
+					</ul>
+				</div>
+				<div class="col_2">
+					<h5>About</h5>
+					<p>We designed the website of Data Storage system in which it show the history, process and many more.But main point is Cloud Computing.</p>
+					<div class="footer_social_button">
+						<a href="http://www.fb.com/nitinsui" target="_blank"><img alt="Facebook" src="images/facebook-32x32.png" title="facebook" /></a>
+						<a href="http://www.twitter.com" target="_blank"><img alt="Twitter" src="images/twitter-32x32.png" title="twitter" /></a>
+						<a href="http://www.youtube.com" target="_blank"><img alt="Youtube" src="images/youtube-32x32.png" title="youtube" /></a>
+					</div>
+				</div>
+				<div class="cleaner"></div>
+			</div>
+		</div>
+
+		<div id="tooplate_cr_bar_wrapper">
+			<div id="tooplate_cr_bar">
+			Copyright &copy; 2017 <a href="index.html">Air Pool</a>
+			</div>
+		</div>
+	</body>
+</html>
